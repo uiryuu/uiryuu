@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Yuze, a member of @iina. I'm currently studying at the Unversity of Tokyo as a master student. My research interest include
+I'm Yuze, a member of @iina. I'm currently studying at the Unversity of Tokyo as a master student. My research interests include
 vehicular network, trust management, among other fields related to autonomous vehicles.
 
 <!--
