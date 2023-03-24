@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Yuze, a macOS developer and member of @iina. I'm currently studying at the Unversity of Tokyo as a master student. My research interests include
-vehicular network, trust management, among other fields related to autonomous vehicles.
+vehicular network, cooperative preception and localization, among other fields related to autonomous vehicles.
 
 <!--
 **uiryuu/uiryuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
