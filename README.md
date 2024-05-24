@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Yuze, a macOS developer and member of @iina. I'm currently studying at the Unversity of Tokyo as a master student. My research interests include
+I'm Yuze, a macOS developer and member of @iina. I'm currently studying at the Unversity of Tokyo as a PhD student. My research interests include
 vehicular network, cooperative preception and localization, among other fields related to autonomous vehicles.
 
 <!--
